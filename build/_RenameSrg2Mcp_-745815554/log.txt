@@ -1,0 +1,14 @@
+Java Launcher: C:\Program Files\Java\jdk-17.0.5\bin\java.exe
+Arguments: '--task, SRG_TO_MCP, --input, C:\Users\Wrgy\.gradle\caches\modules-2\files-2.1\curse.maven\bigger-world-height-1011216\5303402\5ede4992b9ae1b9f6df2194c2eb736837a579987\bigger-world-height-1011216-5303402.jar, --output, C:\Users\Wrgy\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\bigger-world-height-1011216\5303402_mapped_parchment_2022.11.06-1.18.2\bigger-world-height-1011216-5303402_mapped_parchment_2022.11.06-1.18.2.jar, --mcp, C:\Users\Wrgy\.gradle\caches\parchmentgradle\org\parchmentmc\data\parchment-1.18.2\2022.11.06\parchment-1.18.2-2022.11.06.zip, --strip-signatures'
+Classpath:
+ - C:\Users\Wrgy\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.3.2\installertools-1.3.2-fatjar.jar
+Working directory: C:\Users\Wrgy\Desktop\CustomPortalMod\build\_RenameSrg2Mcp_-745815554
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  C:\Users\Wrgy\.gradle\caches\modules-2\files-2.1\curse.maven\bigger-world-height-1011216\5303402\5ede4992b9ae1b9f6df2194c2eb736837a579987\bigger-world-height-1011216-5303402.jar
+Output: C:\Users\Wrgy\.gradle\caches\forge_gradle\deobf_dependencies\curse\maven\bigger-world-height-1011216\5303402_mapped_parchment_2022.11.06-1.18.2\bigger-world-height-1011216-5303402_mapped_parchment_2022.11.06-1.18.2.jar
+MCP:    C:\Users\Wrgy\.gradle\caches\parchmentgradle\org\parchmentmc\data\parchment-1.18.2\2022.11.06\parchment-1.18.2-2022.11.06.zip
+Loading MCP Data
+Processing ZIP file
+Process complete
